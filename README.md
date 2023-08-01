@@ -1,5 +1,5 @@
 # Ethereum_Transaction_App
-# EthereumTransaction_App
+
 The app can transfer ethereum from one account to another using metamask. Each transaction is paired with a gif and a message and is forever stored in Blockchain. The application makes use of Solidity Language to write smart Contracts. It is a dynamic app using React JS and Tailwind for frontend and can run as a mobile application as well.
 
 ![image](https://github.com/Glance-JJ/EthereumTransaction_App/assets/100403922/9be9dedb-4dac-4693-9bb7-69650370e0fa)

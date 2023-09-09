@@ -2,15 +2,12 @@
 
 The app can transfer ethereum from one account to another using metamask. Each transaction is paired with a gif and a message and is forever stored in Blockchain. The application makes use of Solidity Language to write smart Contracts. It is a dynamic app using React JS and Tailwind for frontend and can run as a mobile application as well.
 
-![image](https://github.com/Glance-JJ/EthereumTransaction_App/assets/100403922/9be9dedb-4dac-4693-9bb7-69650370e0fa)
+![Vite + React - Google Chrome 09-09-2023 10_43_30](https://github.com/Glance-JJ/Ethereum_Transaction_App/assets/100403922/1b0715e7-0892-4369-9a5f-73c650b9735e)
 
-![image](https://github.com/Glance-JJ/EthereumTransaction_App/assets/100403922/b467b956-7630-4228-bcdc-aa00e0c402b7)
+![Vite + React - Google Chrome 23-07-2023 18_54_56](https://github.com/Glance-JJ/Ethereum_Transaction_App/assets/100403922/b9d989c4-0b74-435e-994b-5192919e0539)
 
-![image](https://github.com/Glance-JJ/EthereumTransaction_App/assets/100403922/732ff33e-8d63-4fdd-9caa-bdf2cb3c80db)
+![Vite + React - Google Chrome 09-09-2023 11_57_06](https://github.com/Glance-JJ/Ethereum_Transaction_App/assets/100403922/e90c89ec-0472-48c7-9c16-acf7404b8478)
 
-![image](https://github.com/Glance-JJ/EthereumTransaction_App/assets/100403922/9572fd53-9745-4b7a-9fa9-b48b86f48991)
-
-![image](https://github.com/Glance-JJ/EthereumTransaction_App/assets/100403922/0163cf15-8fb4-43b4-a999-b5683dd077ae)
 
 To run the application run commands:
 
@@ -30,7 +27,7 @@ npm install --save-dev "hardhat@^2.16.0" "@nomicfoundation/hardhat-toolbox@^3.0.
 
 npx hardhat run scripts/deploy.js --network Sepolia
 
-You also need to to have a MetaMask account to be able to send transactions.
+You also need to to have a MetaMask account to be able to send and recieve transactions.
 
 
 
